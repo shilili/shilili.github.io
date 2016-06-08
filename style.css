@@ -1,0 +1,31 @@
+.main-menu {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	float:right;
+}
+
+.main-menu li {
+	float:left;
+	margin-right: 30px;
+}
+
+.main-menu li a {
+	line-height: 80px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+nav {
+	height: 80px;
+	background-color: gray;
+	padding-left: 30px;
+}
